@@ -1,1 +1,11 @@
-
+[
+  "JavaScript and TypeScript Nightly": {
+    "nimaqiladi": "typescript yozishda yordam beradi"
+  },
+  "@import-font": {
+    "nimaqiladi": "google fontni import qilib beradi"
+  },
+  "Astro": {
+    "nimaqiladi": "language support for .astro files"
+  }
+]
